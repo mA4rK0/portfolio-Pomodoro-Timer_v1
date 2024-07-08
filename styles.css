@@ -1,0 +1,36 @@
+body {
+  font-family: "Sen", sans-serif;
+  background-color: rgb(50, 60, 77);
+}
+
+h1 {
+  color: rgb(0, 166, 255);
+  font-size: 4em;
+  border-radius: 50%;
+  width: 4em;
+  height: 4em;
+}
+
+.play,
+.pause {
+  border-radius: 50%;
+  width: 4em;
+  height: 4em;
+  border: none;
+  background-color: black;
+}
+
+.play:hover,
+.pause:hover {
+  background-color: rgb(15, 15, 15);
+}
+
+.play:active,
+.pause:active {
+  background-color: rgb(29, 28, 28);
+}
+
+i {
+  font-size: 2em;
+  color: blueviolet;
+}

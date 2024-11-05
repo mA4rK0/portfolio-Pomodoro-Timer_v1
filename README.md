@@ -8,4 +8,8 @@ Link : https://fonts.google.com/
 
 ## CSS Framework 
 
-Bootstrap v
+Bootstrap v5.3.3
+
+## Icons
+
+Bootstrap Icon v1.11.3

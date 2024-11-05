@@ -10,6 +10,10 @@ Link : https://fonts.google.com/
 
 Bootstrap v5.3.3
 
+Link : https://getbootstrap.com/
+
 ## Icons
 
-Bootstrap Icon v1.11.3
+Bootstrap Icons v1.11.3
+
+Link : https://icons.getbootstrap.com/
